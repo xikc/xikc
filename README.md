@@ -5,7 +5,7 @@
 - 👨🏽‍💻 I have almost 8+ years of software engineering experience and collaborated with firms (Multi-national/startups) like 
 Mindtree, AIG, Intralinks, RDAlabs, AAC in domains like Insurance, addiction & rehabilitation.
 
-- 📫 How to reach me ...hmm okay lets do it...goto your email --> hit compose --> engineer.akshay.yadav@gmail.com
+- 📫 How to reach me ...okay! lets do it...goto your email --> hit compose --> To: engineer.akshay.yadav@gmail.com
 
 <!---
 xikc/xikc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
